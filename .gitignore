@@ -1,6 +1,9 @@
 _site/*
 _theme_packages/*
 
+*.swp
+*.swo
+
 Thumbs.db
 .DS_Store
 
